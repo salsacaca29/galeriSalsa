@@ -1,0 +1,2 @@
+# galeriSalsa
+webGaleri
